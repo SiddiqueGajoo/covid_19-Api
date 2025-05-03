@@ -37,6 +37,4 @@ lib/
 
 ## 📸 Screenshots
 
-
-
-
+![Covud_19 UI-01](https://github.com/user-attachments/assets/3c08ad5d-9ec2-4162-8546-f907d6e032fc)
